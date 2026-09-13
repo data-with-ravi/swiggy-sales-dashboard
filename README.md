@@ -54,8 +54,6 @@ This project analyzes Swiggy's sales performance using Excel — covering total 
 - The **"Recommended"** category drives the highest sales by far (₹71.9L), suggesting Swiggy's recommendation algorithm has a strong influence on order value
 
 
-Swiggy-dashboard.png
-
 ## 🚀 How to Use
 1. Download `swiggy_dashboard_analysis.xlsx`
 2. Open in Microsoft Excel
@@ -63,3 +61,8 @@ Swiggy-dashboard.png
 
 ---
 *Built as a data analysis practice project using Swiggy sales data.*
+
+<img width="1362" height="759" alt="screeshot-of-dashboard(excel)" src="https://github.com/user-attachments/assets/b1cfd481-d417-4ef2-bd32-c0da54dcb919" />
+
+
+
