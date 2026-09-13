@@ -16,7 +16,8 @@ An interactive **Excel dashboard** analyzing Swiggy food delivery sales data —
 This project analyzes Swiggy's sales performance using Excel — covering total sales, order volume, customer ratings, and regional trends. The goal was to turn raw transactional data into a clear, visual dashboard that highlights key business insights at a glance.
 
 ## 🖼️ Dashboard Preview
-<img width="761" height="437" alt="Swiggy-dashboard" src="https://github.com/user-attachments/assets/40a7c3b0-ca6b-4faa-b638-b774ce13dfbf" />
+<img width="754" height="435" alt="Screenshot 2026-09-13 052226" src="https://github.com/user-attachments/assets/057e1ed3-fe1b-4a02-bfc5-9adcd711e96d" />
+
 
 
 ## 🔑 Key Metrics
