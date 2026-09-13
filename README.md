@@ -53,6 +53,9 @@ This project analyzes Swiggy's sales performance using Excel — covering total 
 - **KFC** is the top-earning restaurant on the platform (₹42.5L), followed by **McDonald's** and **Pizza Hut** — QSR/fast-food chains dominate the top spots
 - The **"Recommended"** category drives the highest sales by far (₹71.9L), suggesting Swiggy's recommendation algorithm has a strong influence on order value
 
+
+Swiggy-dashboard.png.png
+
 ## 🚀 How to Use
 1. Download `swiggy_dashboard_analysis.xlsx`
 2. Open in Microsoft Excel
