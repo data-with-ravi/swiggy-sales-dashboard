@@ -9,8 +9,7 @@ An interactive **Excel dashboard** analyzing Swiggy food delivery sales data —
 ## 📁 Project Files
 | File | Description |
 |------|--------------|
-| `[Swiggy Raw Data Excel.xlsx](https://github.com/user-attachments/files/32160180/Swiggy.Raw.Data.Excel.xlsx)
-` | Original raw dataset before cleaning/analysis |
+| `[Swiggy Raw Data Excel.xlsx](https://github.com/user-attachments/files/32160180/Swiggy.Raw.Data.Excel.xlsx)` | Original raw dataset before cleaning/analysis |
 | `[Swiggy Raw Data Excel dashboard and analysis.xlsx](https://github.com/user-attachments/files/32160192/Swiggy.Raw.Data.Excel.dashboard.and.analysis.xlsx)
 ` | Cleaned data with calculated columns, pivot tables, and final dashboard |
 
