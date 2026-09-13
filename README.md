@@ -9,9 +9,8 @@ An interactive **Excel dashboard** analyzing Swiggy food delivery sales data —
 ## 📁 Project Files
 | File | Description |
 |------|--------------|
-| `[Swiggy Raw Data Excel.xlsx](https://github.com/user-attachments/files/32160180/Swiggy.Raw.Data.Excel.xlsx)` | Original raw dataset before cleaning/analysis |
-| `[Swiggy Raw Data Excel dashboard and analysis.xlsx](https://github.com/user-attachments/files/32160192/Swiggy.Raw.Data.Excel.dashboard.and.analysis.xlsx)
-` | Cleaned data with calculated columns, pivot tables, and final dashboard |
+| `[Swiggy Raw Data Excel.xlsx](https://github.com/user-attachments/files/32160180/Swiggy.Raw.Data.Excel.xlsx)| Original raw dataset before cleaning/analysis |
+| `[Swiggy Raw Data Excel dashboard and analysis.xlsx](https://github.com/user-attachments/files/32160192/Swiggy.Raw.Data.Excel.dashboard.and.analysis.xlsx) | Cleaned data with calculated columns, pivot tables, and final dashboard |
 
 ## 📌 Overview
 This project analyzes Swiggy's sales performance using Excel — covering total sales, order volume, customer ratings, and regional trends. The goal was to turn raw transactional data into a clear, visual dashboard that highlights key business insights at a glance.
