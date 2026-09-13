@@ -46,7 +46,12 @@ This project analyzes Swiggy's sales performance using Excel — covering total 
 - Data visualization (bar charts, line charts, donut charts, map charts)
 
 ## 📊 Key Insights
-- *(Add 2–3 insights here — e.g. which month had peak sales, which city had highest orders, veg vs non-veg preference trend, etc.)*
+- **Bengaluru (Karnataka)** is the top-performing city, generating **₹54.6L** in sales — well ahead of Lucknow (₹31.2L) and Hyderabad (₹30.2L)
+- **Veg orders dominate**, contributing **₹3.4Cr (64%)** of total sales from 141K orders, compared to **₹1.9Cr (36%)** from 56K Non-Veg orders
+- **Saturday** is the strongest sales day (₹77.8L), while **Tuesday** is the weakest (₹73.6L) — weekend demand runs noticeably higher
+- Sales stayed fairly consistent month-to-month (₹62–68L range), with **Q2** slightly outperforming Q1 and Q3
+- **KFC** is the top-earning restaurant on the platform (₹42.5L), followed by **McDonald's** and **Pizza Hut** — QSR/fast-food chains dominate the top spots
+- The **"Recommended"** category drives the highest sales by far (₹71.9L), suggesting Swiggy's recommendation algorithm has a strong influence on order value
 
 ## 🚀 How to Use
 1. Download `swiggy_dashboard_analysis.xlsx`
